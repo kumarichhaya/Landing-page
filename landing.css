@@ -1,0 +1,76 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+header{
+	background-image: url("D:\\internship images\\vision.jpg");
+	height:100vh;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+}
+.main{
+	max-width:1100px;
+	margin:auto;
+}
+ul{
+	list-style-type:none;
+	float:right;
+	margin:top;
+
+}
+ul li{
+	display:inline-block;
+	border:1px solid transparent;
+}
+ul li a{
+	color:white;
+	text-decoration:none;
+	display:block;
+	padding:5px;
+}
+ul li a:hover{
+	background-color:white;
+	color:black;
+	transition:0.62s ease;
+}
+.smile{
+	background-color:white;
+	color:black;
+}
+.logo img{
+	margin-top:20px ;
+	margin-bottom:20px;
+
+}
+.center_text{
+	margin-top:250px ;
+	margin-left: 530px;
+	text-justify: auto;
+}
+h1{
+	color: white;
+}
+#c1{
+	border:1px solid white;
+	color:white;
+	padding:5.5px;
+	text-decoration:none;
+}
+#c2{
+	border:1px solid white;
+	color:white;
+	padding:5.5px;
+	text-decoration:none;
+}
+#c1:hover{
+	background-color:white;
+	color:black;
+	transition:0.6px;
+}
+#c2:hover{
+	background-color:white;
+	color:black;
+	transition:0.6px;
+	
+}
